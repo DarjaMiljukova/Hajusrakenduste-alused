@@ -1,0 +1,3 @@
+sessionStorage
+sessionStorage.setItem('color','red')
+sessionStorage.getItem('color')
